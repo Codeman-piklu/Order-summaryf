@@ -157,7 +157,7 @@ box-shadow: 0px 2px 10px rgb(109, 97, 89);
 @media screen and (max-width:760px ) {
  body{
     display: block;
-    background-color: red;
+   
  }   
 .container{
     margin: 0 auto;
